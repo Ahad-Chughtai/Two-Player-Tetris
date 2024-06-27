@@ -1,7 +1,7 @@
 # Two-Player-Tetris
 Two Player Tetris made in Java.
 
-Run the game.java class to play
+Run the Game.java class to play
 
 Press ASD to move Player 1. Press the arrow keys to move Player 2.
 
